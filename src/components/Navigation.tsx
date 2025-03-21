@@ -48,7 +48,7 @@ export const Navigation = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <Link to="/" className="flex items-center space-x-2">
           <div className="w-10 h-10 relative">
-            <img src="/lovable-uploads/b9b11b92-8f10-4e1f-ad60-907e79e2bd82.png" alt="Boba Inn Logo" className="object-contain w-full h-full" />
+            <img src="/images/BOBZY4.jpg" alt="Boba Inn Logo" className="object-contain w-full h-full" />
           </div>
           <span className="font-display font-bold text-xl sm:text-2xl tracking-tight">Boba Inn</span>
         </Link>
