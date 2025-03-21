@@ -61,12 +61,12 @@ export const Footer = () => {
               <li className="flex items-start">
                 <MapPin className="w-5 h-5 mr-2 mt-0.5 flex-shrink-0" />
                 <span className="text-primary-foreground/70">
-                  KWAME NKRUMAH UNIVERSITY OF SCIENCE AND TECHNOLOGY
+                KWAME NKRUMAH UNIVERSITY OF SCIENCE AND TECHNOLOGY
                 </span>
               </li>
               <li className="flex items-center">
                 <Phone className="w-5 h-5 mr-2 flex-shrink-0" />
-                <span className="text-primary-foreground/70">054 123 7516/span>
+                <span className="text-primary-foreground/70">054 123 7516</span>
               </li>
               <li className="flex items-center">
                 <Mail className="w-5 h-5 mr-2 flex-shrink-0" />
