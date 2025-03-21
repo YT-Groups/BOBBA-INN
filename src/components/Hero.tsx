@@ -14,12 +14,12 @@ const drinkTypes = [
 
 // Sample carousel images for each type of drink
 const carouselImages = [
-  '/lovable-uploads/47538500-5207-4397-af00-b7bb1e5c678a.png', // Use uploaded images
-  '/lovable-uploads/b9b11b92-8f10-4e1f-ad60-907e79e2bd82.png',
+  'https://i.pinimg.com/736x/05/12/27/05122726ef4b12a619a08bfe2acd4bbd.jpg', 
+  'https://i.pinimg.com/736x/d8/25/a3/d825a3dea21b4c1e41b56aec343a308f.jpg',
   // We'll use placeholders for the other images for now
-  '/placeholder.svg',
-  '/placeholder.svg',
-  '/placeholder.svg',
+  'https://i.pinimg.com/736x/17/bf/ac/17bfacdd0e7fb9ee3a6c51e24fdd1b05.jpg',
+  'https://i.pinimg.com/736x/5b/a2/4b/5ba24bf7f89e3aadee27eea63824c87e.jpg',
+  'https://i.pinimg.com/736x/6d/db/85/6ddb8545ae2f3358eceb7ddff71c4f17.jpg',
 ];
 
 export const Hero = () => {
@@ -98,7 +98,7 @@ export const Hero = () => {
           
           <div className="absolute -bottom-4 -right-4 rotate-12 animate-float">
             <img 
-              src="/lovable-uploads/b9b11b92-8f10-4e1f-ad60-907e79e2bd82.png" 
+              src="public\images\BOBZY6.jpg" 
               alt="Boba Bubble" 
               className="w-24 h-24 animate-pulse-soft"
             />
