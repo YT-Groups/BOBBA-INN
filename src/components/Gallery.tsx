@@ -8,49 +8,49 @@ import { Dialog, DialogContent, DialogTrigger } from '@/components/ui/dialog';
 const galleryItems = [
   { 
     id: 1, 
-    src: '/placeholder.svg', 
+    src: '/images/BOBZY2.jpg', 
     alt: 'Happy customers enjoying boba tea', 
     layout: 'standard' 
   },
   { 
     id: 2, 
-    src: '/placeholder.svg', 
+    src: '/images/BOBZY8NEW.jpg', 
     alt: 'Colorful boba drinks lineup', 
     layout: 'wide' 
   },
   { 
     id: 3, 
-    src: '/placeholder.svg', 
+    src: '/images/DAVECUP.jpg', 
     alt: 'Bubble tea making process', 
     layout: 'tall' 
   },
   { 
     id: 4, 
-    src: '/placeholder.svg', 
+    src: '/images/DAVHOLDINGCUP.jpg', 
     alt: 'Friends sharing boba experience', 
     layout: 'standard' 
   },
   { 
     id: 5, 
-    src: '/placeholder.svg', 
+    src: '/images/DAVEHOLDINGCUPWHITE.jpg', 
     alt: 'Artistic boba presentation', 
     layout: 'tall' 
   },
   { 
     id: 6, 
-    src: '/placeholder.svg', 
+    src: '/images//DAVHOLDINGCUP.jpg', 
     alt: 'Boba shop interior', 
     layout: 'standard' 
   },
   { 
     id: 7, 
-    src: '/placeholder.svg', 
+    src: '/images/BOBZY5.jpg', 
     alt: 'Closeup of boba pearls', 
     layout: 'wide' 
   },
   { 
     id: 8, 
-    src: '/placeholder.svg', 
+    src: '/images/BOBZY4.jpg', 
     alt: 'Customer enjoying their drink', 
     layout: 'standard' 
   },
