@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Menu, X, ShoppingBag } from 'lucide-react';
@@ -94,6 +93,13 @@ export const Navigation = () => {
         "md:hidden"
       )}>
         <div className="flex flex-col h-full pt-20 pb-6 px-6">
+          <button
+            onClick={() => setIsMenuOpen(false)}
+            className="absolute top-6 right-6 p-2 rounded-full hover:bg-gray-100"
+            aria-label="Close menu"
+          >
+            <X className="w-6 h-6" />
+          </button>
           <nav className="flex flex-col space-y-6 text-center">
             {navItems.map((item) => (
               <Link 
