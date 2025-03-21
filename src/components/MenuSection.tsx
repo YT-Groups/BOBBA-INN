@@ -20,7 +20,7 @@ const menuItems = [
     id: 1, 
     name: 'Caramel Milk Tea', 
     price: 'GH₵35', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVECUP.jpg', 
     description: 'Rich caramel flavor blended with premium milk tea and chewy tapioca pearls',
     category: 'milky'
   },
@@ -28,7 +28,7 @@ const menuItems = [
     id: 2, 
     name: 'Salted Caramel Milk Tea', 
     price: 'GH₵38', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVHOLDINGCUP.jpg', 
     description: 'A perfect balance of sweet and salty with our signature milk tea base',
     category: 'milky'
   },
@@ -36,7 +36,7 @@ const menuItems = [
     id: 3, 
     name: 'Brown Sugar Milk Tea', 
     price: 'GH₵40', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVEHOLDINGCUPWHITE.jpg', 
     description: 'Caramelized brown sugar syrup with creamy milk tea and extra boba pearls',
     category: 'milky'
   },
@@ -44,7 +44,7 @@ const menuItems = [
     id: 4, 
     name: 'Vanilla Latte Milk', 
     price: 'GH₵35', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVECUP.jpg', 
     description: 'Smooth vanilla flavor with a coffee kick and our classic boba pearls',
     category: 'milky'
   },
@@ -52,7 +52,7 @@ const menuItems = [
     id: 5, 
     name: 'Chocolatey Milk', 
     price: 'GH₵35', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVHOLDINGCUP.jpg', 
     description: 'Decadent chocolate milk with tapioca pearls for the chocolate lovers',
     category: 'milky'
   },
@@ -62,7 +62,7 @@ const menuItems = [
     id: 6, 
     name: 'Strawberry Milk', 
     price: 'GH₵35', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVEHOLDINGCUPWHITE.jpg', 
     description: 'The best strawberry in town! Fresh strawberry flavor with creamy milk',
     category: 'fruity'
   },
@@ -70,7 +70,7 @@ const menuItems = [
     id: 7, 
     name: 'Mango Milk', 
     price: 'GH₵35', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVECUP.jpg', 
     description: 'Tropical mango puree blended with milk and chewy boba pearls',
     category: 'fruity'
   },
@@ -78,7 +78,7 @@ const menuItems = [
     id: 8, 
     name: 'Banana Milk', 
     price: 'GH₵35', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVECUP.jpg', 
     description: 'Creamy banana milk with a hint of sweetness and tapioca pearls',
     category: 'fruity'
   },
@@ -86,7 +86,7 @@ const menuItems = [
     id: 9, 
     name: 'Coconut', 
     price: 'GH₵35', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVHOLDINGCUP.jpg', 
     description: 'Refreshing coconut milk with tropical flavors and boba pearls',
     category: 'fruity'
   },
@@ -94,7 +94,7 @@ const menuItems = [
     id: 10, 
     name: 'Lemonade', 
     price: 'GH₵30', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVEHOLDINGCUPWHITE.jpg', 
     description: 'Zesty lemonade with popping boba pearls for a refreshing experience',
     category: 'fruity'
   },
@@ -104,7 +104,7 @@ const menuItems = [
     id: 11, 
     name: 'Coffee', 
     price: 'GH₵35', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVECUP.jpg', 
     description: 'Premium coffee with our signature boba pearls for coffee lovers',
     category: 'tea'
   },
@@ -112,7 +112,7 @@ const menuItems = [
     id: 12, 
     name: 'Taro (Coming Soon)', 
     price: 'GH₵40', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVEHOLDINGCUPWHITE.jpg', 
     description: 'Smooth taro flavor with milk and boba pearls - launching soon!',
     category: 'tea'
   },
@@ -120,7 +120,7 @@ const menuItems = [
     id: 13, 
     name: 'Matcha Tea (Coming Soon)', 
     price: 'GH₵40', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVECUP.jpg', 
     description: 'Authentic matcha green tea with milk and tapioca pearls - coming soon!',
     category: 'tea'
   },
@@ -130,7 +130,7 @@ const menuItems = [
     id: 14, 
     name: 'Oreo Milk', 
     price: 'GH₵40', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg', 
     description: 'Creamy milk blended with crushed Oreo cookies and boba pearls',
     category: 'biscuit'
   },
@@ -138,7 +138,7 @@ const menuItems = [
     id: 15, 
     name: 'Veda Biscoff Lotus', 
     price: 'GH₵45', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVEHOLDINGCUPWHITE.jpg', 
     description: 'You won\'t regret it! Caramelized biscuit flavor with our signature milk tea',
     category: 'biscuit'
   },
@@ -148,7 +148,7 @@ const menuItems = [
     id: 16, 
     name: 'Blueberry Cheesecake', 
     price: 'GH₵45', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVHOLDINGCUP.jpg', 
     description: 'Creamy cheesecake flavor with blueberry swirls and tapioca pearls',
     category: 'special'
   },
@@ -156,7 +156,7 @@ const menuItems = [
     id: 17, 
     name: 'Strawberry Matcha (Coming Soon)', 
     price: 'GH₵45', 
-    image: '/placeholder.svg', 
+    image: '/images/DAVECUP.jpg', 
     description: 'A unique blend of strawberry and matcha flavors - coming soon!',
     category: 'special'
   },
