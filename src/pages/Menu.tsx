@@ -26,7 +26,7 @@ const menuItems = [
     name: 'Caramel Milk Tea', 
     price: 'GH₵35', 
     largePrice: 'GH₵45',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg', 
     description: 'Rich caramel flavor blended with premium milk tea and chewy tapioca pearls',
     category: 'milky'
   },
@@ -35,7 +35,7 @@ const menuItems = [
     name: 'Salted Caramel Milk Tea', 
     price: 'GH₵38', 
     largePrice: 'GH₵48',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'A perfect balance of sweet and salty with our signature milk tea base',
     category: 'milky'
   },
@@ -44,7 +44,7 @@ const menuItems = [
     name: 'Brown Sugar Milk Tea', 
     price: 'GH₵40', 
     largePrice: 'GH₵50',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg', 
     description: 'Caramelized brown sugar syrup with creamy milk tea and extra boba pearls',
     category: 'milky'
   },
@@ -53,7 +53,7 @@ const menuItems = [
     name: 'Vanilla Latte Milk', 
     price: 'GH₵35', 
     largePrice: 'GH₵45',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Smooth vanilla flavor with a coffee kick and our classic boba pearls',
     category: 'milky'
   },
@@ -62,7 +62,7 @@ const menuItems = [
     name: 'Chocolatey Milk', 
     price: 'GH₵35', 
     largePrice: 'GH₵45',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Decadent chocolate milk with tapioca pearls for the chocolate lovers',
     category: 'milky'
   },
@@ -73,7 +73,7 @@ const menuItems = [
     name: 'Strawberry Milk', 
     price: 'GH₵35', 
     largePrice: 'GH₵45',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg', 
     description: 'The best strawberry in town! Fresh strawberry flavor with creamy milk',
     category: 'fruity'
   },
@@ -82,7 +82,7 @@ const menuItems = [
     name: 'Mango Milk', 
     price: 'GH₵35', 
     largePrice: 'GH₵45',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg', 
     description: 'Tropical mango puree blended with milk and chewy boba pearls',
     category: 'fruity'
   },
@@ -91,7 +91,7 @@ const menuItems = [
     name: 'Banana Milk', 
     price: 'GH₵35', 
     largePrice: 'GH₵45',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Creamy banana milk with a hint of sweetness and tapioca pearls',
     category: 'fruity'
   },
@@ -100,7 +100,7 @@ const menuItems = [
     name: 'Coconut', 
     price: 'GH₵35', 
     largePrice: 'GH₵45',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg', 
     description: 'Refreshing coconut milk with tropical flavors and boba pearls',
     category: 'fruity'
   },
@@ -109,7 +109,7 @@ const menuItems = [
     name: 'Lemonade', 
     price: 'GH₵30', 
     largePrice: 'GH₵40',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Zesty lemonade with popping boba pearls for a refreshing experience',
     category: 'fruity'
   },
@@ -120,7 +120,7 @@ const menuItems = [
     name: 'Coffee', 
     price: 'GH₵35', 
     largePrice: 'GH₵45',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Premium coffee with our signature boba pearls for coffee lovers',
     category: 'tea'
   },
@@ -129,7 +129,7 @@ const menuItems = [
     name: 'Taro (Coming Soon)', 
     price: 'GH₵40', 
     largePrice: 'GH₵50',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Smooth taro flavor with milk and boba pearls - launching soon!',
     category: 'tea',
     comingSoon: true
@@ -139,7 +139,7 @@ const menuItems = [
     name: 'Matcha Tea (Coming Soon)', 
     price: 'GH₵40', 
     largePrice: 'GH₵50',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg', 
     description: 'Authentic matcha green tea with milk and tapioca pearls - coming soon!',
     category: 'tea',
     comingSoon: true
@@ -151,7 +151,7 @@ const menuItems = [
     name: 'Oreo Milk', 
     price: 'GH₵40', 
     largePrice: 'GH₵50',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Creamy milk blended with crushed Oreo cookies and boba pearls',
     category: 'biscuit'
   },
@@ -160,7 +160,7 @@ const menuItems = [
     name: 'Veda Biscoff Lotus', 
     price: 'GH₵45', 
     largePrice: 'GH₵55',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg', 
     description: 'You won\'t regret it! Caramelized biscuit flavor with our signature milk tea',
     category: 'biscuit'
   },
@@ -171,7 +171,7 @@ const menuItems = [
     name: 'Blueberry Cheesecake', 
     price: 'GH₵45', 
     largePrice: 'GH₵55',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg', 
     description: 'Creamy cheesecake flavor with blueberry swirls and tapioca pearls',
     category: 'special'
   },
@@ -180,7 +180,7 @@ const menuItems = [
     name: 'Strawberry Matcha (Coming Soon)', 
     price: 'GH₵45', 
     largePrice: 'GH₵55',
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'A unique blend of strawberry and matcha flavors - coming soon!',
     category: 'special',
     comingSoon: true
@@ -191,7 +191,7 @@ const menuItems = [
     id: 18, 
     name: 'Waffles', 
     price: 'GH₵25', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Freshly made waffles - perfect companion for your boba drink',
     category: 'sides'
   },
@@ -199,7 +199,7 @@ const menuItems = [
     id: 19, 
     name: 'Cookies', 
     price: 'GH₵15', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Homemade cookies that pair perfectly with our milk teas',
     category: 'sides'
   },
@@ -207,7 +207,7 @@ const menuItems = [
     id: 20, 
     name: 'Chocolate Chip Cookies', 
     price: 'GH₵18', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Soft cookies loaded with chocolate chips - a customer favorite',
     category: 'sides'
   },
@@ -215,7 +215,7 @@ const menuItems = [
     id: 21, 
     name: 'Muffins', 
     price: 'GH₵20', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Freshly baked muffins in various flavors',
     category: 'sides'
   },
@@ -223,7 +223,7 @@ const menuItems = [
     id: 22, 
     name: 'Chocolate Muffins', 
     price: 'GH₵22', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Rich chocolate muffins with a gooey center',
     category: 'sides'
   },
@@ -231,7 +231,7 @@ const menuItems = [
     id: 23, 
     name: 'Mini Pancakes', 
     price: 'GH₵25', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Stack of fluffy mini pancakes with maple syrup',
     category: 'sides'
   },
@@ -239,7 +239,7 @@ const menuItems = [
     id: 24, 
     name: 'Banana Muffins', 
     price: 'GH₵20', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Moist banana muffins made with fresh bananas',
     category: 'sides'
   },
@@ -247,7 +247,7 @@ const menuItems = [
     id: 25, 
     name: 'Cupcakes', 
     price: 'GH₵18', 
-    image: '/placeholder.svg', 
+    image:'/images//DAVHOLDINGCUP.jpg',
     description: 'Delightful cupcakes with various frosting options',
     category: 'sides'
   },
@@ -257,7 +257,7 @@ const menuItems = [
     id: 26, 
     name: 'Extra Boba', 
     price: 'GH₵5', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg', 
     description: 'Additional serving of our chewy tapioca pearls',
     category: 'toppings'
   },
@@ -265,7 +265,7 @@ const menuItems = [
     id: 27, 
     name: 'Oreo Crumbs', 
     price: 'GH₵5', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Crushed Oreo cookies to top your drink',
     category: 'toppings'
   },
@@ -273,7 +273,7 @@ const menuItems = [
     id: 28, 
     name: 'Biscoff Crumbs', 
     price: 'GH₵5', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Caramelized biscuit crumbs to enhance your boba experience',
     category: 'toppings'
   },
@@ -281,7 +281,7 @@ const menuItems = [
     id: 29, 
     name: 'Whipped Cream', 
     price: 'GH₵5', 
-    image: '/placeholder.svg', 
+    image: '/images//DAVHOLDINGCUP.jpg',
     description: 'Fresh whipped cream topping for your drink',
     category: 'toppings'
   },
