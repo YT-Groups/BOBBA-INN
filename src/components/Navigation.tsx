@@ -44,7 +44,7 @@ export const Navigation = () => {
         scrolled ? "bg-white/90 backdrop-blur-md shadow-sm py-3" : "bg-transparent py-5"
       )}
     >
-      <div className="max-w-7xl mx-auto flex items-center justify-between">
+      <div className="max-w-7xl mx-auto flex items-center justify-between relative z-50">
         <Link to="/" className="flex items-center space-x-2">
           <div className="w-10 h-10 relative">
             <img src="/images/BOBZY4.jpg" alt="Boba Inn Logo" className="object-contain w-full h-full" />
@@ -75,7 +75,7 @@ export const Navigation = () => {
         {/* Mobile Navigation Trigger */}
         <button 
           onClick={() => setIsMenuOpen(!isMenuOpen)}
-          className="md:hidden p-2 rounded-full hover:bg-primary/10 transition-colors"
+          className="md:hidden p-2 rounded-full hover:bg-primary/10 transition-colors relative z-50"
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
         >
           {isMenuOpen ? (
@@ -93,13 +93,6 @@ export const Navigation = () => {
         "md:hidden"
       )}>
         <div className="flex flex-col h-full pt-20 pb-6 px-6">
-          <button
-            onClick={() => setIsMenuOpen(false)}
-            className="absolute top-6 right-6 p-2 rounded-full hover:bg-gray-100"
-            aria-label="Close menu"
-          >
-            <X className="w-6 h-6" />
-          </button>
           <nav className="flex flex-col space-y-6 text-center">
             {navItems.map((item) => (
               <Link 
