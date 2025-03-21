@@ -103,14 +103,14 @@ const ContactPage = () => {
                     <MapPin className="w-5 h-5 mr-3 mt-1 text-primary" />
                     <div>
                       <h3 className="font-semibold">Our Location</h3>
-                      <p className="text-foreground/70">123 Boba Street, Tea District, Accra, Ghana</p>
+                      <p className="text-foreground/70">KWAME NKRUMAH UNIVERSITY OF SCIENCE AND TECHNOLOGY</p>
                     </div>
                   </div>
                   <div className="flex items-start">
                     <Phone className="w-5 h-5 mr-3 mt-1 text-primary" />
                     <div>
                       <h3 className="font-semibold">Phone Number</h3>
-                      <p className="text-foreground/70">+233 12 345 6789</p>
+                      <p className="text-foreground/70">054 123 7516</p>
                     </div>
                   </div>
                   <div className="flex items-start">
